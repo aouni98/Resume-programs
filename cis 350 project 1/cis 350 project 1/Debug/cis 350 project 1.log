@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\aouni\documents\visual studio 2017\projects\cis 350 project 1\cis 350 project 1\source.cpp(83): warning C4018: '<' : signed/unsigned mismatch
+c:\users\aouni\documents\visual studio 2017\projects\cis 350 project 1\cis 350 project 1\source.cpp(89): warning C4018: '<' : signed/unsigned mismatch
+c:\users\aouni\documents\visual studio 2017\projects\cis 350 project 1\cis 350 project 1\source.cpp(112): warning C4101: 'var' : unreferenced local variable
+  cis 350 project 1.vcxproj -> C:\Users\aouni\Documents\Visual Studio 2017\Projects\cis 350 project 1\Debug\cis 350 project 1.exe
